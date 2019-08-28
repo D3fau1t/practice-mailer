@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+
+.MuiFormLabel-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.88)!important;
+}
